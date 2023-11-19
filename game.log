@@ -1,0 +1,8 @@
+Nov 19, 2023 2:13:09 PM de.gurkenlabs.litiengine.util.ReflectionUtilities getField
+WARNING: Could not find field [updaterate] on class [class de.gurkenlabs.litiengine.configuration.ConfigurationGroup] or its parents.
+Nov 19, 2023 2:13:09 PM de.gurkenlabs.litiengine.util.ReflectionUtilities getField
+WARNING: Could not find field [updaterate] on class [class de.gurkenlabs.litiengine.configuration.ClientConfiguration] or its parents.
+Nov 19, 2023 2:13:09 PM de.gurkenlabs.litiengine.util.ReflectionUtilities getField
+WARNING: Could not find field [fullscreen] on class [class de.gurkenlabs.litiengine.configuration.ConfigurationGroup] or its parents.
+Nov 19, 2023 2:13:09 PM de.gurkenlabs.litiengine.util.ReflectionUtilities getField
+WARNING: Could not find field [fullscreen] on class [class de.gurkenlabs.litiengine.configuration.GraphicConfiguration] or its parents.
